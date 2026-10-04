@@ -127,7 +127,7 @@ Dashboard Preview
 
 KPIs
 
-![KPIs.png]
+KPIs.png
 
 
 Revenue
