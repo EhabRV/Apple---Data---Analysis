@@ -123,21 +123,20 @@ The analysis highlights Mac as the primary revenue driver, with Mac Pro (M2 Ultr
 
 The findings demonstrate how Power BI can be used to transform transactional sales data into actionable business insights while recognizing the limitations of the available data.
 
-Dashboard Preview
 
-KPIs
+## Dashboard Preview
 
-KPIs.png
+### KPIs
+![KPIs](./KPIs.png)
 
+### Revenue
+![Revenue](./Revenue.png)
 
-Revenue
+### Quantity
+![Quantity](./Quantity.png)
 
-![Revenue.png]
+### Customers
+![Customers](./Customers.png)
 
-Quantity
-
-![Quantity.png]
-
-Customers
-
-![Customers.png]
+### Report
+![Report](./Report.png)
