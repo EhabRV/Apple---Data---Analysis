@@ -127,16 +127,17 @@ Dashboard Preview
 
 KPIs
 
-[Dashboard Screenshot]
+![KPIs.png]
+
 
 Revenue
 
-[Dashboard Screenshot]
+![Revenue.png]
 
 Quantity
 
-[Dashboard Screenshot]
+![Quantity.png]
 
 Customers
 
-[Dashboard Screenshot]
+![Customers.png]
